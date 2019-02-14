@@ -1,7 +1,7 @@
 ## Interface: 30300
 ## Title: DrDamage
 ## Author: Gagorian, Dally1991, Detseuqer, Zarquan, Karzon13
-## Notes: |@Version: 1.0.1@|In-game theorycraft. Calculates actual damage/healing based on gear, talents and buffs.
+## Notes: |@Version: 1@|In-game theorycraft. Calculates actual damage/healing based on gear, talents and buffs.
 ## Version: 1.7.8_release
 ## SavedVariables: DrDamageDB
 ## X-Curse-Packaged-Version: 1.7.8_release
