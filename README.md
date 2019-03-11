@@ -1,5 +1,5 @@
-# DrDamage
-DrDamage displays the calculated damage or healing of abilities with talents, gear and buffs included on your actionbar buttons. The addon also adds various statistics to the tooltips in your spellbook and on the actionbar.
+**DrDamage** отображает рассчитанный урон или исцеление способностей с талантами, экипировкой и бафами, включенными на кнопках панели команд. Аддон также добавляет различные статистические данные к подсказкам в вашей книге заклинаний и на панели команд.
 
-**Slash Commands:**
-/drd or /drdmg or /drdamage
+Вызов настроек из чата: / drd или / drdmg или / drdamage
+
+*Спасибо игроку [Os](https://forum.sirus.su/members/17os86.175882/) за перевод описания на Русский Язык.*
