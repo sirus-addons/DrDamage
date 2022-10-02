@@ -703,7 +703,7 @@ function DrDamage:CommonData()
 	if select(2, UnitRace("player")) == "BloodElf" then
 		if playerClass == "PALADIN" or playerClass == "PRIEST" or playerClass == "MAGE" or playerClass == "HUNTER" or playerClass == "WARLOCK" then
 			self.ClassSpecials[GetSpellInfo(28730) or "Arcane Torrent"] = function()
-				return 0.06 * UnitPowerMax("player",0), false, true
+				return 0.15 * UnitPowerMax("player",0), false, true
 			end
 		end
 	end
